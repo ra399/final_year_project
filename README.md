@@ -1,5 +1,5 @@
 Explainable Model Predictive Control (XAI-MPC) for Energy-Efficient Distillation Column Operation
-Bachelor Thesis Project | Department of Chemical Engineering, IIT Patna
+
 
 📋 Project Overview
 This project integrates Model Predictive Control (MPC) with Explainable AI (SHAP, LIME) to make control actions interpretable while improving energy efficiency in a binary distillation column (ethanol-water separation).
@@ -16,7 +16,7 @@ Key Features
 🚀 Quick Start
 Installation
 bash# Clone repository
-git clone https://github.com/yourusername/xai-mpc-distillation.git
+git clone https://github.com/ra399/xai-mpc-distillation.git
 cd xai-mpc-distillation
 
 # Create virtual environment
@@ -280,18 +280,12 @@ Open Pull Request
 📝 Citation
 If you use this work in your research, please cite:
 bibtex@misc{xai_mpc_distillation_2025,
-  author = {[Your Name]},
+  author = {[rajesh]},
   title = {Explainable Model Predictive Control for Energy-Efficient Distillation},
   year = {2025},
-  publisher = {IIT Patna},
-  howpublished = {\url{https://github.com/yourusername/xai-mpc-distillation}}
+  howpublished = {\url{https://github.com/raj399/final_year_project}}
 }
 
-📧 Contact
-Author: BTP Student
-Institution: Department of Chemical Engineering, IIT Patna
-Email: your.email@iitp.ac.in
-Project Page: GitHub Repository
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
